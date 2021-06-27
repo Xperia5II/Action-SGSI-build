@@ -6,10 +6,8 @@ cd $LOCALDIR
 systemdir=$1
 
 apps_dir="
-Camera
 Mipay
 MiuiBugReport
-Browser
 Camera
 MiuiVideo
 Music
@@ -48,6 +46,12 @@ MiGameCenterSDKService
 YellowPage
 ContentExtension
 aiasst_service
+NQNfcNci
+slaservice
+MiRcs
+Tag
+MiuiDaemon
+WMService
 "
 
 for delete_dir in $apps_dir ;do
