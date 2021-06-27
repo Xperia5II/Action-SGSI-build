@@ -8,12 +8,10 @@ systemdir=$1
 apps_dir="
 Camera
 CameraTools
-Calendar
 Mipay
 MiuiBugReport
 Browser
 Camera
-MiuiGallery
 MiuiVideo
 Music
 MusicFX
