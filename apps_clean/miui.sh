@@ -7,7 +7,6 @@ systemdir=$1
 
 apps_dir="
 Camera
-CameraTools
 Mipay
 MiuiBugReport
 Browser
