@@ -52,6 +52,9 @@ MiRcs
 Tag
 MiuiDaemon
 WMService
+FM
+HTMLViewer
+com.miui.qr
 "
 
 for delete_dir in $apps_dir ;do
