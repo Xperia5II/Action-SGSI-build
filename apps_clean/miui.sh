@@ -42,7 +42,6 @@ MiService
 MiShare
 MiuiAod
 MiGameCenterSDKService
-YellowPage
 ContentExtension
 aiasst_service
 NQNfcNci
@@ -52,7 +51,6 @@ Tag
 WMService
 FM
 HTMLViewer
-com.miui.qr
 "
 
 for delete_dir in $apps_dir ;do
