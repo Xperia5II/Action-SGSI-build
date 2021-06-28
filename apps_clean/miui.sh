@@ -21,7 +21,6 @@ com.xiaomi.macro
 HybridAccessory
 HybridPlatform
 mab
-mi_connect_service
 MiPlayClient
 MiSound
 MiuiAccessibility
@@ -50,7 +49,6 @@ NQNfcNci
 slaservice
 MiRcs
 Tag
-MiuiDaemon
 WMService
 FM
 HTMLViewer
