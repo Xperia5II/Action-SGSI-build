@@ -11,7 +11,6 @@ MiuiBugReport
 Camera
 MiuiVideo
 Music
-MusicFX
 QuickSearchBox
 talkback
 AiAsstVision
