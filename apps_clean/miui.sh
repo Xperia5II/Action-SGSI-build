@@ -50,7 +50,6 @@ MiRcs
 Tag
 WMService
 FM
-HTMLViewer
 "
 
 for delete_dir in $apps_dir ;do
