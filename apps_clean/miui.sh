@@ -11,7 +11,6 @@ MiuiBugReport
 Camera
 MiuiVideo
 Music
-MusicFX
 QuickSearchBox
 talkback
 AiAsstVision
@@ -20,7 +19,6 @@ CatchLog
 com.xiaomi.macro
 HybridAccessory
 HybridPlatform
-mab
 MiPlayClient
 MiSound
 MiuiAccessibility
@@ -37,7 +35,6 @@ YouDaoEngine
 Backup
 BackupRestoreConfirmation
 CallLogBackup
-Mirror
 MiService
 MiShare
 MiuiAod
@@ -48,7 +45,6 @@ NQNfcNci
 slaservice
 MiRcs
 Tag
-WMService
 FM
 "
 
