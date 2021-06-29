@@ -43,7 +43,6 @@ ContentExtension
 aiasst_service
 NQNfcNci
 slaservice
-MiRcs
 Tag
 FM
 "
