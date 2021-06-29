@@ -18,7 +18,7 @@ on:
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'MIUI12.5renoirSGSI.zip'
+        default: 'SGSI.zip'
 
 
 
