@@ -47,6 +47,8 @@ Tag
 FM
 mab
 MaintenanceMode
+MIUIAccessibility
+Mirror
 "
 
 for delete_dir in $apps_dir ;do
