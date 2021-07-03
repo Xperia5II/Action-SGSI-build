@@ -45,6 +45,7 @@ NQNfcNci
 slaservice
 Tag
 FM
+mab
 "
 
 for delete_dir in $apps_dir ;do
