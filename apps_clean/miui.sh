@@ -6,10 +6,10 @@ cd $LOCALDIR
 systemdir=$1
 
 apps_dir="
-Mipay
+MIpay
 MiuiBugReport
 Camera
-MiuiVideo
+MIUIVideo
 Music
 QuickSearchBox
 talkback
@@ -35,9 +35,9 @@ YouDaoEngine
 Backup
 BackupRestoreConfirmation
 CallLogBackup
-MiService
-MiShare
-MiuiAod
+MIService
+MIShare
+MIUIAod
 MiGameCenterSDKService
 ContentExtension
 aiasst_service
@@ -49,6 +49,15 @@ mab
 MaintenanceMode
 MIUIAccessibility
 Mirror
+MiLink
+SogouInput
+XiaomiModemDebugService
+Browser
+MIUIPersonalAssistant
+MIUIContentExtension
+MIUITouchAssistant
+GmsCore
+GooglePlayServicesUpdater
 "
 
 for delete_dir in $apps_dir ;do
