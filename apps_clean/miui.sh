@@ -56,8 +56,6 @@ Browser
 MIUIPersonalAssistant
 MIUIContentExtension
 MIUITouchAssistant
-GmsCore
-GooglePlayServicesUpdater
 "
 
 for delete_dir in $apps_dir ;do
