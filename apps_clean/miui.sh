@@ -6,31 +6,19 @@ cd $LOCALDIR
 systemdir=$1
 
 apps_dir="
-YouDaoEngine
-Backup
-BackupRestoreConfirmation
-CallLogBackup
-MIService
-MIShare
-MIUIAod
-MiGameCenterSDKService
-ContentExtension
-aiasst_service
-NQNfcNci
-slaservice
-Tag
-FM
-mab
-MaintenanceMode
-MIUIAccessibility
-Mirror
-MiLink
-SogouInput
-XiaomiModemDebugService
-Browser
-MIUIPersonalAssistant
-MIUIContentExtension
-MIUITouchAssistant
+MIpay
+MiuiBugReport
+Camera
+MIUIVideo
+Music
+QuickSearchBox
+talkback
+AiAsstVision
+Cit
+CatchLog
+com.xiaomi.macro
+HybridAccessory
+HybridPlatform
 "
 
 for delete_dir in $apps_dir ;do
